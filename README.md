@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋
+I am 7ax777
 
-<!--
-**7ax777/7ax777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A tool that searches and extracts 
+sites affected by the (bypass) vulnerability
+أداة تبحث عن المواقع المتأثرة بالثغرة الأمنية (bypass) وتستخرجها
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              أومر ثتبيت الأذاة
+pkg install python2
+pip2 install mechanize
+pkg install git
+git clone https://github.com/Ranginang67/M-dork
+                         أومر لفتح الأذاة
+cd M-dork
+python2 mdork.py
